@@ -1,0 +1,30 @@
+Type: Package
+Package: experimentdatar
+Title: Datasets used in the "Machine Learning and Econometrics" course
+Version: 0.1.0.9000
+Authors@R: 
+    c(person(given = "Susan",
+             family = "Athey",
+             role = "aut"),
+      person(given = "Itamar",
+             family = "Caspi",
+             role = c("aut", "cre"),
+             email = "caspi.itamar@gmail.com"))
+Description: This package includes datasets used by Susan Athey and Guido Imbens in their "Machine Learning
+    and Econometrics" course givan at the AEA Continuing Education, 2018. The data is conveniently
+    packaged for consumption by R users.
+License: CC0
+URL: http://github.com/itamarcaspi/experimentdatar
+Depends: 
+    R (>= 3.2.0)
+Suggests:
+    dplyr,
+    grf,
+    causalTree,
+    spelling
+Encoding: UTF-8
+Language: en-US
+LazyData: true
+RoxygenNote: 6.1.0
+Imports: 
+    magrittr

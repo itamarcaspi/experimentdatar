@@ -1,0 +1,50 @@
+url: https://itamarcaspi.github.io/experimentdatar
+
+authors:
+  Susan Athey:
+    href: https://www.gsb.stanford.edu/faculty-research/faculty/susan-athey
+  Itamar Caspi:
+    href: http://www.itamarcaspi.net/
+
+
+template:
+  params:
+    bootswatch: flatly
+    docsearch:
+      api_key: e656dd3edb0bba05760e48324639d75e
+      index_name: experimentdatar
+
+navbar:
+  type: default
+  left:
+    - icon: fa-home
+      href: index.html
+    - text: "Datasets"
+      href: reference/index.html
+    - text: "News"
+      href: news/index.html
+  right:
+   - text: "GitHub"
+     icon: fa-github
+     href: https://github.com/itamarcaspi/experimentdatar/
+
+articles:
+
+
+reference:
+  - title: "Datasets"
+    contents:
+      - charitable
+      - mobilization
+      - secrecy
+      - social
+      - welfare
+      - IVdataset
+      - vouchers
+  - title: "Source"
+    desc: "Link to the papers behind the datasets"
+    contents:
+      - dataDetails
+
+
+

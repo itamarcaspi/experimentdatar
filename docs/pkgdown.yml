@@ -1,0 +1,8 @@
+pandoc: '2.3'
+pkgdown: 1.1.0
+pkgdown_sha: ~
+articles: []
+urls:
+  reference: https://itamarcaspi.github.io/experimentdatar/reference
+  article: https://itamarcaspi.github.io/experimentdatar/articles
+
