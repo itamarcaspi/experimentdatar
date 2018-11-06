@@ -9,8 +9,9 @@ status](https://travis-ci.org/itamarcaspi/experimentdatar.svg?branch=master)](ht
 [![AppVeyor build
 status](https://ci.appveyor.com/api/projects/status/github/itamarcaspi/experimentdatar?branch=master&svg=true)](https://ci.appveyor.com/project/itamarcaspi/experimentdatar)
 
-This package contains publicly available datasets that were used in
-Susan Athey and Guido Imbens’ course [“Machine Learning and
+The `experimentdatar` data package contains publicly available datasets
+that were used in Susan Athey and Guido Imbens’ course [“Machine
+Learning and
 Econometrics”](https://www.aeaweb.org/conference/cont-ed/2018-webcasts)
 (AEA continuing Education, 2018). The datasets are conveniently packed
 for R users.
@@ -54,8 +55,8 @@ social %>%
     ## 5             0               0
     ## 6             0               0
 
-Check the source of the `social` dataset, i.e. the original paper where
-it was used:
+There is also a function `dataDetails` that opens the original paper
+where the data was used
 
 ``` r
 dataDetails("social")
@@ -66,7 +67,7 @@ dataDetails("social")
   - `charitable`: Data used for the paper “Does Price matter in
     charitable giving? Evidence from a large-Scale Natural Field
     experiment”  
-    by Dean Karlan and John List (2007)
+    by Karlan and List (2007).
 
   - `IVdataset`: Data used for the paper “Does compulsory school
     attendance affect schooling and earnings?”  
@@ -75,22 +76,28 @@ dataDetails("social")
   - `mobilization`: Data for the paper “Comparing Experimental and
     Matching Methods Using a Large-Scale Voter Mobilization
     Experiment”  
-    by Kevin Arceneaux, Alan S. Gerber and Donald P. Green (2006)
+    by Arceneaux, Gerber, and Green (2006).
 
   - `vouchers`: Data for the paper “Vouchers for Private Schooling in
     Colombia: Evidence from a Randomized Natural Experiment”  
-    by Angrist, Bettinger, Bloom, King, and Kremer (2002)
+    by Angrist, Bettinger, Bloom, King, and Kremer (2002).
 
   - `secrecy`: Data for the paper “Ballot Secrecy Concerns and Voter
     Mobilization: New Experimental Evidence about Message Source,
     Context, and the Duration of Mobilization Effects”  
-    by Gerber, Hubers, Biggers, Hendry (2014)
+    by Gerber, Hubers, Biggers, and Hendry (2014).
 
   - `social`: Data for the paper “Social Pressure and Voter Turnout:
     Evidence from a Large-Scale Field Experiment”  
-    by Gerber, Green, Larimer (2008)
+    by Gerber, Green, and Larimer (2008).
 
   - `welfare`: Data for the paper “Modeling heterogeneous treatment
     effects in survey experiments with Bayesian Additive Regression
     Trees”  
-    by Green, Kern (2012)
+    by Green and Kern (2012).
+
+## Code of conduct
+
+Please note that the ‘experimentdatar’ project is released with a
+[Contributor Code of Conduct](CODE_OF_CONDUCT.md). By contributing to
+this project, you agree to abide by its terms.

@@ -16,6 +16,6 @@ welfare
 }
 \description{
 Data used for the paper "Modeling heterogeneous treatment effects in survey
-experiments with Bayesian Additive Regression Trees" Green, Kern (2012)
+experiments with Bayesian Additive Regression Trees" by Green, and Kern (2012).
 }
 \keyword{datasets}

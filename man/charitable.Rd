@@ -16,6 +16,6 @@ charitable
 }
 \description{
 Data used for the paper "Does Price matter in charitable giving? Evidence
-from a large-Scale Natural Field experiment" Dean Karlan and John List (2007)
+from a large-Scale Natural Field experiment" by Karlan and  List (2007).
 }
 \keyword{datasets}

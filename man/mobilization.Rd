@@ -16,7 +16,6 @@ mobilization
 }
 \description{
 Data used for the paper "Comparing Experimental and Matching Methods Using a
-Large-Scale Voter Mobilization Experiment" Kevin Arceneaux, Alan S. Gerber
-and Donald P. Green (2006)
+Large-Scale Voter Mobilization Experiment" Arceneaux, Gerber and Green (2006).
 }
 \keyword{datasets}

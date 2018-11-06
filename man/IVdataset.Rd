@@ -16,6 +16,6 @@ IVdataset
 }
 \description{
 Data used for the paper "Does Compulsory School Attendance Affect Schooling
-and Earnings?" Angrist and Kruger (1991) and related papers.
+and Earnings?" by Angrist and Kruger (1991) and related papers.
 }
 \keyword{datasets}

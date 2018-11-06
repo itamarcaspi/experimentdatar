@@ -17,6 +17,6 @@ secrecy
 \description{
 Data used for the paper "Ballot Secrecy Concerns and Voter Mobilization: New
 Experimental Evidence about Message Source, Context, and the Duration of
-Mobilization Effects" Gerber, Hubers, Biggers, Hendry (2014)
+Mobilization Effects" by Gerber, Hubers, Biggers, and Hendry (2014).
 }
 \keyword{datasets}

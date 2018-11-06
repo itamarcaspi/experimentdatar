@@ -38,6 +38,6 @@ social
 }
 \description{
 Data used for the paper "Social Pressure and Voter Turnout: Evidence from a
-Large-Scale Field Experiment" Gerber, Green, Larimer (2008)
+Large-Scale Field Experiment" by Gerber, Green, and Larimer (2008).
 }
 \keyword{datasets}

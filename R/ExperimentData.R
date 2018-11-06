@@ -1,7 +1,7 @@
 #' charitable data
 #'
 #' Data used for the paper "Does Price matter in charitable giving? Evidence
-#' from a large-Scale Natural Field experiment" Dean Karlan and John List (2007)
+#' from a large-Scale Natural Field experiment" by Karlan and  List (2007).
 #'
 #'
 #' @format A tibble with variables:
@@ -16,8 +16,7 @@
 #' mobilization data
 #'
 #' Data used for the paper "Comparing Experimental and Matching Methods Using a
-#' Large-Scale Voter Mobilization Experiment" Kevin Arceneaux, Alan S. Gerber
-#' and Donald P. Green (2006)
+#' Large-Scale Voter Mobilization Experiment" Arceneaux, Gerber and Green (2006).
 #'
 #'
 #' @format A tibble with variables:
@@ -34,7 +33,7 @@
 #'
 #' Data used for the paper "Ballot Secrecy Concerns and Voter Mobilization: New
 #' Experimental Evidence about Message Source, Context, and the Duration of
-#' Mobilization Effects" Gerber, Hubers, Biggers, Hendry (2014)
+#' Mobilization Effects" by Gerber, Hubers, Biggers, and Hendry (2014).
 #'
 #'
 #' @format A tibble with variables:
@@ -50,7 +49,7 @@
 #' social data
 #'
 #' Data used for the paper "Social Pressure and Voter Turnout: Evidence from a
-#' Large-Scale Field Experiment" Gerber, Green, Larimer (2008)
+#' Large-Scale Field Experiment" by Gerber, Green, and Larimer (2008).
 #'
 #'
 #' @format A tibble with variables:
@@ -88,7 +87,7 @@
 #' welfare data
 #'
 #' Data used for the paper "Modeling heterogeneous treatment effects in survey
-#' experiments with Bayesian Additive Regression Trees" Green, Kern (2012)
+#' experiments with Bayesian Additive Regression Trees" by Green, and Kern (2012).
 #'
 #'
 #' @format A tibble with variables:
@@ -104,7 +103,7 @@
 #' IV data
 #'
 #' Data used for the paper "Does Compulsory School Attendance Affect Schooling
-#' and Earnings?" Angrist and Kruger (1991) and related papers.
+#' and Earnings?" by Angrist and Kruger (1991) and related papers.
 #'
 #'
 #' @format A tibble with variables:
@@ -121,7 +120,7 @@
 #'
 #' Data used for the paper "Vouchers for Private Schooling in Colombia: Evidence
 #' from a Randomized Natural Experiment" Angrist, Bettinger, Bloom, King, and
-#' Kremer (2002)
+#' Kremer (2002).
 #'
 #'
 #' @format A tibble with variables:

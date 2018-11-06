@@ -19,7 +19,7 @@ navbar:
   left:
     - icon: fa-home
       href: index.html
-    - text: "Datasets"
+    - text: "Reference"
       href: reference/index.html
     - text: "News"
       href: news/index.html
@@ -41,8 +41,8 @@ reference:
       - welfare
       - IVdataset
       - vouchers
-  - title: "Source"
-    desc: "Link to the papers behind the datasets"
+  - title: "Details"
+    desc: "Opens a link to the papers behind the datasets"
     contents:
       - dataDetails
 

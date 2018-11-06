@@ -17,6 +17,6 @@ vouchers
 \description{
 Data used for the paper "Vouchers for Private Schooling in Colombia: Evidence
 from a Randomized Natural Experiment" Angrist, Bettinger, Bloom, King, and
-Kremer (2002)
+Kremer (2002).
 }
 \keyword{datasets}
