@@ -11,7 +11,7 @@ template:
   params:
     bootswatch: flatly
     docsearch:
-      api_key: e656dd3edb0bba05760e48324639d75e
+      api_key: b68de4c3b2217057cf2307bad2382772
       index_name: experimentdatar
 
 navbar:

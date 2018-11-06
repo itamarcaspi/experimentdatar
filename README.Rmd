@@ -10,7 +10,7 @@ output: github_document
 [![Travis build status](https://travis-ci.org/itamarcaspi/experimentdatar.svg?branch=master)](https://travis-ci.org/itamarcaspi/experimentdatar)
 [![AppVeyor build status](https://ci.appveyor.com/api/projects/status/github/itamarcaspi/experimentdatar?branch=master&svg=true)](https://ci.appveyor.com/project/itamarcaspi/experimentdatar)
 
-This package contains publicly available datasets that were used in Susan Athey and Guido Imbens' course ["Machine Learning and Econometrics"](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) (AEA continuing Education, 2018). The datasets are conveniently packed for R users.
+The `experimentdatar` data package contains publicly available datasets that were used in Susan Athey and Guido Imbens' course ["Machine Learning and Econometrics"](https://www.aeaweb.org/conference/cont-ed/2018-webcasts) (AEA continuing Education, 2018). The datasets are conveniently packed for R users.
 
 ## Installation
 
