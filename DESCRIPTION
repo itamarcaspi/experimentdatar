@@ -20,8 +20,6 @@ Depends:
     R (>= 3.2.0)
 Suggests:
     dplyr,
-    grf,
-    causalTree,
     spelling
 Encoding: UTF-8
 Language: en-US
