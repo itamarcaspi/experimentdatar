@@ -6,6 +6,8 @@
 [![lifecycle](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 [![Travis build
 status](https://travis-ci.org/itamarcaspi/experimentdatar.svg?branch=master)](https://travis-ci.org/itamarcaspi/experimentdatar)
+[![AppVeyor build
+status](https://ci.appveyor.com/api/projects/status/github/itamarcaspi/experimentdatar?branch=master&svg=true)](https://ci.appveyor.com/project/itamarcaspi/experimentdatar)
 
 This package contains publicly available datasets that were used in
 Susan Athey and Guido Imbens’ course [“Machine Learning and
