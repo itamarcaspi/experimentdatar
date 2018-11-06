@@ -10,9 +10,9 @@ Authors@R:
              family = "Caspi",
              role = c("aut", "cre"),
              email = "caspi.itamar@gmail.com"))
-Description: This package includes datasets used by Susan Athey and Guido Imbens in their "Machine Learning
-    and Econometrics" course givan at the AEA Continuing Education, 2018. The data is conveniently
-    packaged for consumption by R users.
+Description: This package includes data sets used by Susan Athey and Guido Imbens
+      in their "Machine Learning and Econometrics" course given at the AEA Continuing
+      Education, 2018. The data is conveniently packaged for consumption by R users.
 License: CC0
 URL: http://github.com/itamarcaspi/experimentdatar
 BugReports: https://github.com/itamarcaspi/experimentdatar/issues
