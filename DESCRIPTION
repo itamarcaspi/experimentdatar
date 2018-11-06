@@ -1,7 +1,7 @@
 Type: Package
 Package: experimentdatar
 Title: Datasets used in the "Machine Learning and Econometrics" course
-Version: 0.1.0.9000
+Version: 0.0.0.9000
 Authors@R: 
     c(person(given = "Susan",
              family = "Athey",
