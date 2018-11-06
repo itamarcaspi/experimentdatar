@@ -23,13 +23,13 @@ devtools::install_github("itamarcaspi/experimentdatar")
 
 ## Usage
 
-load required libraries
+Load `experimentdatar` and other required libraries
 ```{r data, message=FALSE}
 library(dplyr)
 library(experimentdatar)
 ```
 
-load the `social` dataset and display the response and treatment variables
+Load the `social` dataset and display the response and treatment variables
 
 ```{r}
 data(social)  

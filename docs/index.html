@@ -99,10 +99,10 @@
 <div id="usage" class="section level2">
 <h2 class="hasAnchor">
 <a href="#usage" class="anchor"></a>Usage</h2>
-<p>load required libraries</p>
+<p>Load <code>experimentdatar</code> and other required libraries</p>
 <div class="sourceCode" id="cb2"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb2-1" data-line-number="1"><span class="kw">library</span>(dplyr)</a>
 <a class="sourceLine" id="cb2-2" data-line-number="2"><span class="kw">library</span>(experimentdatar)</a></code></pre></div>
-<p>load the <code>social</code> dataset and display the response and treatment variables</p>
+<p>Load the <code>social</code> dataset and display the response and treatment variables</p>
 <div class="sourceCode" id="cb3"><pre class="sourceCode r"><code class="sourceCode r"><a class="sourceLine" id="cb3-1" data-line-number="1"><span class="kw">data</span>(social)  </a>
 <a class="sourceLine" id="cb3-2" data-line-number="2">social <span class="op">%&gt;%</span><span class="st"> </span></a>
 <a class="sourceLine" id="cb3-3" data-line-number="3"><span class="st">  </span><span class="kw">select</span>(outcome_voted, treat_neighbors) <span class="op">%&gt;%</span><span class="st"> </span></a>
