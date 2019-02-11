@@ -15,6 +15,10 @@
 #'
 dataDetails <- function(datasetName = NULL) {
 
+  if (!is.character(datasetName)) {
+    stop("Argument datasetName is not of type charachter",call. = FALSE)
+  }
+
   switch(datasetName,
          "social" = {
            utils::browseURL("https://github.com/gsbDBI/ExperimentData/blob/master/Social/socialvoting.pdf")
@@ -31,8 +35,14 @@ dataDetails <- function(datasetName = NULL) {
          "welfare" = {
            utils::browseURL("https://github.com/gsbDBI/ExperimentData/blob/master/Welfare/Green%20and%20Kern%20BART.pdf")
          },
+         "IVdataset" = {
+           utils::browseURL("http://economics.mit.edu/faculty/angrist/data1/data/angkru1991")
+         },
+         "voucher" = {
+           utils::browseURL("http://economics.mit.edu/faculty/angrist/data1/data/angetal02")
+         },
          {
-           print('NOTE: dataset not found. Please try again.')
+           stop("No such dataest found.", call. = FALSE)
          }
   )
 

@@ -55,7 +55,7 @@ social %>%
     ## 5             0               0
     ## 6             0               0
 
-There is also a function `dataDetails` that opens the original paper
+There is also a function `dataDetails()` that opens the original paper
 where the data was used
 
 ``` r
