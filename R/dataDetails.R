@@ -1,7 +1,7 @@
 #' @title Opens a link to the paper behind a given method
 #'
-#' @description \code{dataDetails} opens the browser and displays the paper that uses the
-#'   dataset
+#' @description \code{dataDetails("dataset_name")} opens a link to the paper that uses the
+#'   \code{dataset_name}
 #'
 #' @param datasetName   A string with the name of the dataset
 #'
